@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>logo_tse.png</file>
+        <file>telecom_logo1.png</file>
+        <file>telecom_logo2.png</file>
+        <file>glass.jpg</file>
+    </qresource>
+</RCC>
